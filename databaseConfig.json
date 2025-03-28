@@ -1,0 +1,15 @@
+{
+  "databases": [
+    {
+      "connectionString": "Data Source=Zeus\\SQLEXPRESS; Initial Catalog=TestDatabase; Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;Application Intent=ReadWrite;Multi Subnet Failover=False",
+      "query": "",
+      "tables": [
+        {
+          "tableName": "PersonInfo",
+          "outputFile": "c:\\temp\\personinfo.csv",
+          "query": ""
+        }
+      ]
+    }
+  ]
+}

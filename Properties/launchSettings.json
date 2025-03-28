@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Decryptor": {
+      "commandName": "Project",
+      "commandLineArgs": "/config:databaseConfig.json"
+    }
+  }
+}
